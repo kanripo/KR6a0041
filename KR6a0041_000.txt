@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 頻婆娑羅王經
+#+DATE: 2015-08-30 19:29:33.582281
+#+PROPERTY: JUAN 0
